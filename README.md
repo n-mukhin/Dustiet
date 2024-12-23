@@ -345,25 +345,3 @@ Grafana is used to visualize the data collected by Prometheus. It provides a cus
 #### Pre-built Dashboards:
 
 You can import pre-built dashboards from Grafana.com or create custom dashboards to suit your needs.
-
-### Future Improvements
-
-#### Expand Functionality:
-
-- Add a "Top Anime" section to rank series based on user ratings.
-- Introduce a recommendation engine to suggest anime based on user reviews.
-
-#### Enhanced Security:
-
-- Use OAuth2 for user authentication.
-- Add rate limiting to API endpoints to prevent abuse.
-
-#### Advanced Monitoring:
-
-- Integrate alerting with Grafana or Prometheus to notify on critical events.
-- Track database query performance.
-
-#### Scaling:
-
-- Deploy the application using Kubernetes for better scalability.
-- Use a managed PostgreSQL service for production workloads.
