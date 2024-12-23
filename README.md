@@ -1,7 +1,5 @@
 # Dustiet
 
-![Anime Lounge Banner](https://example.com/banner.png)
-
 **Dustiet** is a web application designed for anime enthusiasts to register, share, and review their favorite anime series. Users can create accounts, post detailed reviews, rate anime, and explore random anime quotes to enrich their experience. The application leverages modern technologies to ensure scalability, security, and a seamless user experience.
 
 ## Table of Contents
