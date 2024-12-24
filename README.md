@@ -57,8 +57,8 @@ Ensure you have the following installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/dustiet.git
-   cd dustiet
+   git clone https://github.com/n-mukhin/Dustiet.git
+   cd Dustiet
    ```
 
 2. **Directory Structure**
